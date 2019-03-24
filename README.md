@@ -11,3 +11,4 @@
 实现功能：稳飞、定高、光流定点、摄像头寻迹（视频里面有展示）
 
 ![pic1.jpg](https://github.com/HuaxinLu/JJfly-Quadrotor/blob/master/%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87/pic1.jpg) 
+![pic1.jpg](https://github.com/HuaxinLu/JJfly-Quadrotor/blob/master/%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87/pic2.jpg) 
