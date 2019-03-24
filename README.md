@@ -11,4 +11,4 @@
 实现功能：稳飞、定高、光流定点、摄像头寻迹（视频里面有展示）
 
 
-![pic1](JJfly-Quadrotor/实物照片/pic1.jpg) 
+![pic1.jpg](JJfly-Quadrotor/实物照片/pic1.jpg) 
